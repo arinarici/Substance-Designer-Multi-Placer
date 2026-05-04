@@ -38,7 +38,7 @@ A Substance 3D Designer node that allows you to apply independent 2D transformat
 3. **Connect your textures** to the Input connectors (P1, P2, P3...)
 4. **Position in 2D View** — Select the node, open the 2D view, and drag the points to position each pattern
 5. **Adjust Rotation** — Use the Rotation slider for each pattern
-6. **Reset** — Use the Reset Positions button to return all patterns to their default positions
+
 
 ---
 
