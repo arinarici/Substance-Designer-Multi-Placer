@@ -49,7 +49,7 @@ A Substance 3D Designer node that allows you to apply independent 2D placement t
 | Pattern Count | Integer (1–10) | Number of active patterns |
 | Offset P1–P10 | Float2 / Position | Position of each pattern (interactive in 2D view) |
 | Rotation P1–P10 | Float / Angle | Rotation of each pattern |
-| Reset Positions | Boolean | Reset all patterns to default positions |
+
 
 ---
 
