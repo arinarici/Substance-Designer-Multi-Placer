@@ -1,6 +1,6 @@
-# Multi Transform
+# Multi Pattern Placer
 
-A Substance 3D Designer node that allows you to apply independent 2D transformations to up to 10 patterns simultaneously, with interactive control directly in the 2D view.
+A Substance 3D Designer node that allows you to apply independent 2D placement to up to 10 patterns simultaneously, with interactive control directly in the 2D view.
 
 
 ---
