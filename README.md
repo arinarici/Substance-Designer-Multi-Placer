@@ -2,6 +2,8 @@
 
 A Substance 3D Designer node that allows you to apply independent 2D placement to up to 10 patterns simultaneously, with interactive control directly in the 2D view.
 
+https://github.com/user-attachments/assets/8f756a9f-4556-4a3d-8fd4-48437dcd5757
+
 
 ---
 
